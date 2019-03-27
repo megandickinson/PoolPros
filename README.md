@@ -1,5 +1,5 @@
 #Pool Pros
-Website protortype built with Jquery/Javacript, SASS/CSS, and HTML. 
+Website prototype built with Jquery/Javacript, SASS/CSS, and HTML. 
 
 ##Getting Started
 
